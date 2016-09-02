@@ -1,0 +1,1044 @@
+Player wins.
+............
+
+Finished in 0.00633 seconds (files took 0.179 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack h
+zsh: command not found: h
+➜  Blackjack h
+zsh: command not found: h
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 5♣ and a 6♣
+Player at: 11
+Dealer was dealt a 9♠ and a A♦
+Dealer at: 20
+Dealer stays.
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a A♠
+Player's Hand:
+5♣ 6♣ A♠
+Player at: 12
+Dealer stays.
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a Q♣
+Player's Hand:
+5♣ 6♣ A♠ Q♣
+Player at: 22
+Player BUST!
+Dealer wins.
+............
+
+Finished in 3.69 seconds (files took 0.17449 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 4♥ and a 10♦
+Player at: 14
+Dealer was dealt a J♥ and a 8♦
+Dealer at: 18
+Dealer stays.
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a A♣
+Player's Hand:
+4♥ 10♦ A♣
+Player at: 15
+Dealer stays.
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a Q♦
+Player's Hand:
+4♥ 10♦ A♣ Q♦
+Player at: 25
+Player BUST!
+Dealer wins.
+............
+
+Finished in 6.74 seconds (files took 0.17377 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a Q♦ and a 5♦
+Player at: 15
+Dealer was dealt a 2♣ and a J♣
+Dealer at: 12
+Dealer hits.
+Dealer was dealt a A♠
+Dealer's Hand:
+2♣ J♣ A♠
+Dealer at: 13
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 4♥
+Player's Hand:
+Q♦ 5♦ 4♥
+Player at: 19
+Dealer hits.
+Dealer was dealt a 8♠
+Dealer's Hand:
+2♣ J♣ A♠ 8♠
+Dealer at: 21
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 7♠
+Player's Hand:
+Q♦ 5♦ 4♥ 7♠
+Player at: 26
+Player BUST!
+Dealer wins.
+............
+
+Finished in 8.99 seconds (files took 0.41795 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a J♠ and a 6♣
+Player at: 16
+Dealer was dealt a 7♦ and a Q♥
+Dealer at: 17
+Dealer stays.
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 6♠
+Player's Hand:
+J♠ 6♣ 6♠
+Player at: 22
+Player BUST!
+Dealer wins.
+............
+
+Finished in 3.5 seconds (files took 0.17833 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a Q♠ and a 3♠
+Player at: 13
+Dealer was dealt a Q♣ and a 10♦
+Dealer at: 20
+Dealer stays.
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 9♠
+Player's Hand:
+Q♠ 3♠ 9♠
+Player at: 22
+Player BUST!
+Dealer wins.
+............
+
+Finished in 3.26 seconds (files took 0.17623 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a J♥ and a 7♣
+Player at: 17
+Dealer was dealt a 9♦ and a 8♠
+Dealer at: 17
+Dealer stays.
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer stays.
+Tie. No winner.
+............
+
+Finished in 2.19 seconds (files took 0.17176 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 9♣ and a 2♣
+Player at: 11
+Dealer was dealt a A♦ and a Q♣
+Dealer at: 21
+Dealer stays.
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 3♣
+Player's Hand:
+9♣ 2♣ 3♣
+Player at: 14
+Dealer stays.
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a J♦
+Player's Hand:
+9♣ 2♣ 3♣ J♦
+Player at: 24
+Player BUST!
+Dealer wins.
+............
+
+Finished in 3.64 seconds (files took 0.17218 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 9♠ and a 4♥
+Player at: 13
+Dealer was dealt a A♦ and a 2♣
+Dealer at: 13
+Dealer hits.
+Dealer was dealt a 5♦
+Dealer's Hand:
+A♦ 2♣ 5♦
+Dealer at: 18
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 7♦
+Player's Hand:
+9♠ 4♥ 7♦
+Player at: 20
+Dealer hits.
+Dealer was dealt a 2♦
+Dealer's Hand:
+A♦ 2♣ 5♦ 2♦
+Dealer at: 20
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer stays.
+Tie. No winner.
+............
+
+Finished in 7.76 seconds (files took 0.17534 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 9♠ and a K♥
+Player at: 19
+Dealer was dealt a 4♠ and a Q♦
+Dealer at: 14
+Dealer hits.
+Dealer was dealt a 2♣
+Dealer's Hand:
+4♠ Q♦ 2♣
+Dealer at: 16
+Would you like to Hit or Stand? (H/S)
+^C
+RSpec is shutting down and will print the summary report... Interrupt again to force quit.
+^C%                                                                                                ➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a Q♦ and a 2♥
+Player at: 12
+Dealer was dealt a 3♠ and a 2♣
+Dealer at: 5
+Dealer hits.
+Dealer was dealt a J♦
+Dealer's Hand:
+3♠ 2♣ J♦
+Dealer at: 15
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 3♦
+Player's Hand:
+Q♦ 2♥ 3♦
+Player at: 15
+Dealer hits.
+Dealer was dealt a Q♠
+Dealer's Hand:
+3♠ 2♣ J♦ Q♠
+Dealer at: 25
+Dealer BUST!
+Player wins.
+............
+
+Finished in 3.17 seconds (files took 0.17763 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 5♥ and a 8♣
+Player at: 13
+Dealer was dealt a 4♥ and a 3♥
+Dealer at: 7
+Dealer hits.
+Dealer was dealt a 6♠
+Dealer's Hand:
+4♥ 3♥ 6♠
+Dealer at: 13
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 7♥
+Player's Hand:
+5♥ 8♣ 7♥
+Player at: 20
+Dealer hits.
+Dealer was dealt a 7♦
+Dealer's Hand:
+4♥ 3♥ 6♠ 7♦
+Dealer at: 20
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer stays.
+Tie. No winner.
+............
+
+Finished in 3.87 seconds (files took 0.18347 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 10♠ and a 7♠
+Player at: 17
+Dealer was dealt a 7♦ and a 2♠
+Dealer at: 9
+Dealer hits.
+Dealer was dealt a 6♦
+Dealer's Hand:
+7♦ 2♠ 6♦
+Dealer at: 15
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer hits.
+Dealer was dealt a 4♣
+Dealer's Hand:
+7♦ 2♠ 6♦ 4♣
+Dealer at: 19
+Dealer stays.
+Dealer wins.
+............
+
+Finished in 9.64 seconds (files took 0.20673 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 3♣ and a 2♣
+Player at: 5
+Dealer was dealt a 2♠ and a 3♥
+Dealer at: 5
+Dealer hits.
+Dealer was dealt a 10♥
+Dealer's Hand:
+2♠ 3♥ 10♥
+Dealer at: 15
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a J♣
+Player's Hand:
+3♣ 2♣ J♣
+Player at: 15
+Dealer hits.
+Dealer was dealt a A♠
+Dealer's Hand:
+2♠ 3♥ 10♥ A♠
+Dealer at: 16
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 2♦
+Player's Hand:
+3♣ 2♣ J♣ 2♦
+Player at: 17
+Dealer hits.
+Dealer was dealt a 8♥
+Dealer's Hand:
+2♠ 3♥ 10♥ A♠ 8♥
+Dealer at: 24
+Dealer BUST!
+Player wins.
+............
+
+Finished in 5.13 seconds (files took 0.17388 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 2♦ and a 9♦
+Player at: 11
+Dealer was dealt a 10♥ and a 7♠
+Dealer at: 17
+Dealer stays.
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a K♥
+Player's Hand:
+2♦ 9♦ K♥
+Player at: 21
+Dealer stays.
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer stays.
+Player wins.
+............
+
+Finished in 2.73 seconds (files took 0.18339 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 3♥ and a J♣
+Player at: 13
+Dealer was dealt a 7♠ and a 8♦
+Dealer at: 15
+Dealer hits.
+Dealer was dealt a 2♦
+Dealer's Hand:
+7♠ 8♦ 2♦
+Dealer at: 17
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 7♦
+Player's Hand:
+3♥ J♣ 7♦
+Player at: 20
+Dealer stays.
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer stays.
+Player wins.
+............
+
+Finished in 4.15 seconds (files took 0.18795 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a J♥ and a A♦
+Player at: 21
+Dealer was dealt a 7♥ and a 6♠
+Dealer at: 13
+Dealer hits.
+Dealer was dealt a 4♠
+Dealer's Hand:
+7♥ 6♠ 4♠
+Dealer at: 17
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer stays.
+Player wins.
+............
+
+Finished in 2.37 seconds (files took 0.17598 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 7♠ and a A♦
+Player at: 18
+Dealer was dealt a 9♣ and a 7♣
+Dealer at: 16
+Dealer hits.
+Dealer was dealt a K♠
+Dealer's Hand:
+9♣ 7♣ K♠
+Dealer at: 26
+Dealer BUST!
+Player wins.
+............
+
+Finished in 0.00658 seconds (files took 0.17812 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 4♦ and a 4♠
+Player at: 8
+Dealer was dealt a Q♦ and a 2♥
+Dealer at: 12
+Dealer hits.
+Dealer was dealt a 10♦
+Dealer's Hand:
+Q♦ 2♥ 10♦
+Dealer at: 22
+Dealer BUST!
+Player wins.
+............
+
+Finished in 0.0066 seconds (files took 0.17697 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 10♣ and a 8♠
+Player at: 18
+Dealer was dealt a 2♠ and a 8♣
+Dealer at: 10
+Dealer hits.
+Dealer was dealt a 4♣
+Dealer's Hand:
+2♠ 8♣ 4♣
+Dealer at: 14
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer hits.
+Dealer was dealt a 9♠
+Dealer's Hand:
+2♠ 8♣ 4♣ 9♠
+Dealer at: 23
+Dealer BUST!
+Player wins.
+............
+
+Finished in 1.92 seconds (files took 0.17811 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack ls
+lib    run.rb spec
+➜  Blackjack et submit
+error: Not in a lesson directory.
+➜  Blackjack cd ..
+➜  Launch et get black
+error: undefined method `[]' for nil:NilClass
+➜  Launch cd Blackjack
+➜  Blackjack ls
+lib    run.rb spec
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 2♥ and a J♥
+Player at: 12
+Dealer was dealt a 2♦ and a J♦
+Dealer at: 12
+Dealer hits.
+Dealer was dealt a 4♦
+Dealer's Hand:
+2♦ J♦ 4♦
+Dealer at: 16
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 3♣
+Player's Hand:
+2♥ J♥ 3♣
+Player at: 15
+Dealer hits.
+Dealer was dealt a 6♦
+Dealer's Hand:
+2♦ J♦ 4♦ 6♦
+Dealer at: 22
+Dealer BUST!
+Player wins.
+............
+
+Finished in 8.49 seconds (files took 0.37463 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 5♣ and a 9♦
+Player at: 14
+Dealer was dealt a K♣ and a J♦
+Dealer at: 20
+Dealer stays.
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a J♣
+Player's Hand:
+5♣ 9♦ J♣
+Player at: 24
+Player BUST!
+Dealer wins.
+............
+
+Finished in 2.31 seconds (files took 0.1773 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a J♥ and a K♠
+Player at: 20
+Dealer was dealt a 5♥ and a K♦
+Dealer at: 15
+Dealer hits.
+Dealer was dealt a 5♦
+Dealer's Hand:
+5♥ K♦ 5♦
+Dealer at: 20
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer stays.
+Tie. No winner.
+............
+
+Finished in 1.94 seconds (files took 0.17136 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 8♠ and a 9♠
+Player at: 17
+Dealer was dealt a 3♣ and a Q♣
+Dealer at: 13
+Dealer hits.
+Dealer was dealt a 5♣
+Dealer's Hand:
+3♣ Q♣ 5♣
+Dealer at: 18
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 3♠
+Player's Hand:
+8♠ 9♠ 3♠
+Player at: 20
+Dealer stays.
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer stays.
+Player wins.
+............
+
+Finished in 4.73 seconds (files took 0.17376 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 2♠ and a 8♥
+Player at: 10
+Dealer was dealt a 4♥ and a 3♣
+Dealer at: 7
+Dealer hits.
+Dealer was dealt a 10♥
+Dealer's Hand:
+4♥ 3♣ 10♥
+Dealer at: 17
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 8♠
+Player's Hand:
+2♠ 8♥ 8♠
+Player at: 18
+Dealer stays.
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer stays.
+Player wins.
+............
+
+Finished in 3.96 seconds (files took 0.17302 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 3♣ and a 7♥
+Player at: 10
+Dealer was dealt a 8♦ and a 4♠
+Dealer at: 12
+Dealer hits.
+Dealer was dealt a 10♥
+Dealer's Hand:
+8♦ 4♠ 10♥
+Dealer at: 22
+Dealer BUST!
+Player wins.
+............
+
+Finished in 0.00692 seconds (files took 0.2177 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 4♥ and a J♣
+Player at: 14
+Dealer was dealt a 2♣ and a 5♦
+Dealer at: 7
+Dealer hits.
+Dealer was dealt a 3♠
+Dealer's Hand:
+2♣ 5♦ 3♠
+Dealer at: 10
+F...........
+
+Failures:
+
+  1) Blackjack#winning_condition should return player wins, dealer wins, or tie
+     Failure/Error:
+       def input(player)
+         puts "Player at: #{player.calculate_hand}".colorize(:light_blue)
+         puts "Would you like to Hit or Stand? (H/S)"
+         return gets.chomp
+       end
+
+     ArgumentError:
+       wrong number of arguments (0 for 1)
+     # ./lib/checks.rb:22:in `input'
+     # ./lib/blackjack.rb:85:in `run'
+     # ./spec/lib/blackjack_spec.rb:87:in `block (3 levels) in <top (required)>'
+
+Finished in 0.007 seconds (files took 0.1733 seconds to load)
+20 examples, 1 failure
+
+Failed examples:
+
+rspec ./spec/lib/blackjack_spec.rb:84 # Blackjack#winning_condition should return player wins, dealer wins, or tie
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a K♦ and a 3♠
+Player at: 13
+Dealer was dealt a 9♦ and a 7♣
+Dealer at: 16
+Dealer hits.
+Dealer was dealt a 5♠
+Dealer's Hand:
+9♦ 7♣ 5♠
+Dealer at: 21
+Player at: 13
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a Q♠
+Player's Hand:
+K♦ 3♠ Q♠
+Player at: 23
+Player BUST!
+Dealer wins.
+............
+
+Finished in 6.61 seconds (files took 0.21617 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 9♠ and a K♠
+Player at: 19
+Dealer was dealt a 7♣ and a 3♥
+Dealer at: 10
+Dealer hits.
+Dealer was dealt a 6♣
+Dealer's Hand:
+7♣ 3♥ 6♣
+Dealer at: 16
+Player at: 19
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer hits.
+Dealer was dealt a 3♠
+Dealer's Hand:
+7♣ 3♥ 6♣ 3♠
+Dealer at: 19
+Dealer stays.
+Tie. No winner.
+............
+
+Finished in 1.67 seconds (files took 0.17915 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 9♠ and a 5♠
+Player at: 14
+Dealer was dealt a 7♥ and a 6♦
+Dealer at: 13
+Dealer hits.
+Dealer was dealt a 9♥
+Dealer's Hand:
+7♥ 6♦ 9♥
+Dealer at: 22
+Dealer BUST!
+Player wins.
+............
+
+Finished in 0.00628 seconds (files took 0.18332 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 4♣ and a 7♥
+Player at: 11
+Dealer was dealt a A♦ and a 4♠
+Dealer at: 15
+Dealer hits.
+Dealer was dealt a 2♠
+Dealer's Hand:
+A♦ 4♠ 2♠
+Dealer at: 17
+Player at: 11
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 6♦
+Player's Hand:
+4♣ 7♥ 6♦
+Player at: 17
+Dealer stays.
+Player at: 17
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer stays.
+Tie. No winner.
+............
+
+Finished in 5.66 seconds (files took 0.17311 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a K♥ and a J♦
+Player at: 20
+Dealer was dealt a 3♦ and a 3♥
+Dealer at: 6
+Dealer hits.
+Dealer was dealt a J♣
+Dealer's Hand:
+3♦ 3♥ J♣
+Dealer at: 16
+Dealer at: 16
+Player at: 20
+Would you like to Hit or Stand? (H/S)
+^[[A
+Input not recognized, try again.
+Dealer at: 16
+Player at: 20
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 5♦
+Player's Hand:
+K♥ J♦ 5♦
+Player at: 25
+Player BUST!
+Dealer wins.
+............
+
+Finished in 15.32 seconds (files took 0.18727 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a K♠ and a 6♠
+Player at: 16
+Dealer was dealt a J♣ and a 8♥
+Dealer at: 18
+Dealer stays.
+
+Dealer at: 18
+Player at: 16
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 9♠
+Player's Hand:
+K♠ 6♠ 9♠
+Player at: 25
+Player BUST!
+Dealer wins.
+............
+
+Finished in 1.91 seconds (files took 0.18222 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 3♥ and a A♥
+Player at: 14
+Dealer was dealt a Q♠ and a 3♠
+Dealer at: 13
+Dealer hits.
+Dealer was dealt a Q♥
+Dealer's Hand:
+Q♠ 3♠ Q♥
+Dealer at: 23
+Dealer BUST!
+Player wins.
+............
+
+Finished in 0.00647 seconds (files took 0.17531 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a 4♠ and a 3♦
+Player at: 7
+Dealer was dealt a 8♦ and a 7♦
+Dealer at: 15
+Dealer hits.
+Dealer was dealt a K♥
+Dealer's Hand:
+8♦ 7♦ K♥
+Dealer at: 25
+Dealer BUST!
+Player wins.
+............
+
+Finished in 0.00729 seconds (files took 0.17917 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a Q♣ and a Q♠
+Player at: 20
+Dealer was dealt a 7♠ and a K♣
+Dealer at: 17
+Dealer stays.
+
+Dealer at: 17
+Player at: 20
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer stays.
+Player wins.
+............
+
+Finished in 2.24 seconds (files took 0.1856 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a J♥ and a 8♠
+Player at: 18
+Dealer was dealt a 4♣ and a 4♦
+Dealer at: 8
+Dealer hits.
+Dealer was dealt a 4♠
+Dealer's Hand:
+4♣ 4♦ 4♠
+Dealer at: 12
+
+Dealer at: 12
+Player at: 18
+Would you like to Hit or Stand? (H/S)
+h
+Player hits.
+Player was dealt a 9♦
+Player's Hand:
+J♥ 8♠ 9♦
+Player at: 27
+Player BUST!
+Dealer wins.
+............
+
+Finished in 1.56 seconds (files took 0.17385 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a K♠ and a K♥
+Player at: 20
+Dealer was dealt a K♣ and a 4♦
+Dealer at: 14
+Dealer hits.
+Dealer was dealt a 4♠
+Dealer's Hand:
+K♣ 4♦ 4♠
+Dealer at: 18
+
+Dealer at: 18
+Player at: 20
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer stays.
+Player wins.
+............
+
+Finished in 2.04 seconds (files took 0.17518 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack rspec
+........
+Let's play Blackjack!
+Player was dealt a J♠ and a A♥
+Player at: 21
+Dealer was dealt a 8♠ and a J♦
+Dealer at: 18
+Dealer stays.
+
+Dealer at: 18
+Player at: 21
+Would you like to Hit or Stand? (H/S)
+s
+Player stays
+Dealer stays.
+Player wins.
+............
+
+Finished in 1.85 seconds (files took 0.17987 seconds to load)
+20 examples, 0 failures
+
+➜  Blackjack cd ..
+➜  Launch ls
+Blackjack                    inheritance-launchers-league test-flight
+bounding-box                 party-module                 testing-blackjack-score
+➜  Launch et get blackjack
+'blackjack' extracted to '/Users/admin/Launch'
+➜  Launch cd Blackjack/
+➜  Blackjack ls
+Gemfile      Gemfile.lock blackjack.md lib          run.rb       spec
+➜  Blackjack cd ..
+➜  Launch ls
+Blackjack                    inheritance-launchers-league test-flight
+bounding-box                 party-module                 testing-blackjack-score
+➜  Launch mkdir Blackjack_new
+➜  Launch open Blackjack
+➜  Launch open Blackjack_new
+➜  Launch open Blackjack_new
+➜  Launch
